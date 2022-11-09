@@ -53,7 +53,9 @@ Start the Client
   npm start
 ```
 
-Screenshots
+## Screenshots
+![Chat App](/Screens/Signin.JPG?raw=true "Chat Demo")
+![Chat App](/Screens/Signup.JPG?raw=true "Chat Demo")
 ![Chat App](/Screens/ChatDemo.JPG?raw=true "Chat Demo")
 
 ![Group Chat Demo](/Screens/GroupChatDemo.JPG?raw=true "Group Chat Demo")
