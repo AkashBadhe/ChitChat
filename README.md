@@ -13,12 +13,14 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
+https://chit-chat-new.onrender.com/
+
 ## Run Locally
 
 Clone the project
 
 ```bash
-
+https://github.com/AkashBadhe/ChitChat.git
 ```
 
 Go to the project directory
@@ -50,3 +52,14 @@ Start the Client
   cd frontend
   npm start
 ```
+
+Screenshots
+![Chat App](/Screens/ChatDemo.JPG?raw=true "Chat Demo")
+
+![Group Chat Demo](/Screens/GroupChatDemo.JPG?raw=true "Group Chat Demo")
+
+![Profile page](/Screens/Profile.JPG?raw=true "Profile Page")
+
+![Search Demo](/Screens/Search.JPG?raw=true "Search Demo")
+
+
